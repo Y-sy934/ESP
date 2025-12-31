@@ -1,0 +1,3 @@
+la regle  de droit a deux caracteres:
+------>Elle est generale.
+------>Elle est obligatoire.
