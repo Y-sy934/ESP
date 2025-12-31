@@ -1,0 +1,8 @@
+definition_simple:
+--->l'economie est une science sociale qui etudie comment une societe emploi les ressources rares.
+Autre:
+--->L'economie est la science de la gestion des ressources rares.
+Origine:
+--->Oikos= maison,
+--->nomos=administer
+------>L'economie est l'art d'administer une maison puis l'Etat.
