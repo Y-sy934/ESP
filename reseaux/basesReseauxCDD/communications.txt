@@ -1,0 +1,6 @@
+
+La communication est le transfert et l'echange d'informations entre: 
+--->des personnes. --->des machines --->des personnes et machines, via 
+un support(cable, fibre, onde radio) et selon des regles. En 
+informatique, on parle de communication reseau: l'echange de donnees 
+entre terminaux connectes
