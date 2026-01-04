@@ -1,0 +1,5 @@
+1.Quelle est la fonction principale d'un reseau?
+
+2.Quelle est la difference entre donnees et packets?
+
+3.Pourquoi l'encapsulation est-il necessaire?

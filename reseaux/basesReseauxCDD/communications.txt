@@ -4,3 +4,10 @@ La communication est le transfert et l'echange d'informations entre:
 un support(cable, fibre, onde radio) et selon des regles. En 
 informatique, on parle de communication reseau: l'echange de donnees 
 entre terminaux connectes
+
+Qu'est ce qu'un reseau de communication de donnees??? Un reseau de 
+communication de donnees est un ensemble: 
+->terminaux(pc, serveurs, telephone),
+->equipements reseaux(switch, routeurs, firewall, AP),
+->supports de transmission(fibre, cable, wifi) permettant la circulation 
+de donnees
