@@ -1,0 +1,4 @@
+Une application sert a repondre a un besoin utilisateur.
+Elle generent des donnees (text, video, images).
+Les donnees doivent etre transmisent via le reseau.
+l'application ne gere pas du tout:le reseau s'en charge....

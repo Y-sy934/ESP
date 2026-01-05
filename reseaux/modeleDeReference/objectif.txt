@@ -1,0 +1,7 @@
+-->Decrire le processus de modelisation.
+-->Decrire le processus de transmision des donnees.
+-->Decrire les concepts lies aux modeles de references du reseau(osi, tcp/ip)
+-->Decrire le processus d'encapsulation de de desencapsulation des donnes.
+-->Decrire l'entete d'une trame Ethernet.
+-->identifier un adresse mac.
+-->identifier la nature des transmissions(unicast, broadcast, multicast).
