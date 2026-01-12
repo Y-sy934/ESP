@@ -1,0 +1,13 @@
+adresse ip --> numero ip et adresse masque chaque octet est compris entre o et
+255
+
+3 types d'adresse ip (ip reseau, ip hote, ip broadcast)
+
+
+
+
+
+
+Une adresse un numero de 4 octets accompagne d'un masque reseau 4 octets aussi
+Elle identifie de maniere unique un noeud(ordinateur, imprimante, routeur,etc.
+d'un reseau tcp/ip.

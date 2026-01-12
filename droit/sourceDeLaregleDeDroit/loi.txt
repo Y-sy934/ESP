@@ -1,0 +1,10 @@
+elle designe ici les textes votes par l'assemblee national
+---->texte
+--->vote par l'assemble nationale
+
+------------->elle est constitue par l'elaboration de la loi
+------------->les caracteres de la loi
+------------->le domaine de la loi
+------------->les differents categories de loi
+------------->la disparition de la loi
+------------->les conflits de loi
